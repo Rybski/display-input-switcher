@@ -1,4 +1,4 @@
-# monitor-controller
+# display-management
 App to control your monitors via app. For now it is hardcoded and crude
 
 # Why?
@@ -10,3 +10,5 @@ Sometimes it is painfull to reach behind monitors to switch their source input. 
 - ...
 - Learn to code
   
+# API:
+https://pypi.org/project/monitorcontrol/
