@@ -1,4 +1,4 @@
-# display-management
+# display-input-switcher
 App to control your monitors via app. For now it is hardcoded and crude
 
 # Why?
